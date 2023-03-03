@@ -8,4 +8,4 @@ New price list
 
 Total Revenue Generated
 
-And Average Average daily Revenue Generated 
+And Average Average daily Revenue Generated
